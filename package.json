@@ -1,0 +1,26 @@
+{
+  "name": "@lumiera0/fiero",
+  "version": "1.0.0",
+  "description": "FIero Ventures",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lumiera0/Fiero.git"
+  },
+  "keywords": [
+    "Fiero",
+    "Tea"
+  ],
+  "author": "Lumiera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lumiera0/Fiero/issues"
+  },
+  "homepage": "https://github.com/Lumiera0/Fiero#readme",
+  "dependencies": {
+    "fiero": "^1.0.0"
+  }
+}
